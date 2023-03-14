@@ -269,6 +269,9 @@ class ROCmDocs:
             "article_header_start": [
                 "toggle-primary-sidebar.html",
                 "breadcrumbs.html"
+            ],
+            "navbar_center": [
+                "components/foobar.html"
             ]
         }
 
